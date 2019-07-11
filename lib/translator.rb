@@ -1,5 +1,5 @@
 require "emoticons
-fruits =
+translator =
 YAML.load_file('emoticons.yml')
 
 def load_library
